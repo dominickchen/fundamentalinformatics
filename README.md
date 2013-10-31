@@ -1,4 +1,4 @@
-# Fundamental Informatics
+# Graphics for fundamental Informatics
 
 ### Background 
 Graphic elements for Fundamental Informatics and Data Bionomy theories which inherit the discussions of the Second Order Cybernetics.
@@ -30,13 +30,16 @@ This is a dirty release: objects need to be organized and some texts need to be 
 
 ### License
 
-<img src="http://mirrors.creativecommons.org/presskit/buttons/80x15/png/by.png" style="height:25px;">
+![CC:BY](https://dl.dropboxusercontent.com/u/466496/images/ccby.png "CC:BY")
 
-This work, <a href="https://github.com/dominickchen/fundamentalinformatics" target="_blank">"fundamental_informatics"</a>by <a href="https://github.com/dominickchen/dcv" target="_blank">Dominique Chen</a> is licensed under a <a href="http://creativecommons.org/licenses/by/3.0/" rel="license">Creative Commons: Attribution 3.0 Unported license</a>.
+<div xmlns:dc="http://purl.org/dc/terms/" xmlns:cc"http://creativecommons.org/#ns" about="https://github.com/dominickchen/fundamentalinformatics/"><span property="dct:title">
+This work, <span property="dct:title">"Graphics for fundamental Informatics"</span> by <a href="https://github.com/dominickchen/dcv" target="_blank">Dominique Chen</a> is licensed under a <a href="http://creativecommons.org/licenses/by/3.0/" target="_blank" rel="license">Creative Commons: Attribution 3.0 Unported license</a>.
+</div>
 
 **Attributoin HTML Snippet** (copy&paste)<br />
 `
-This work, <a href="https://github.com/dominickchen/fundamentalinformatics" target="_blank">"fundamental_informatics"</a>by <a href="https://github.com/dominickchen/dcv" target="_blank">Dominique Chen</a> is licensed under a <a href="http://creativecommons.org/licenses/by/3.0/" rel="license">Creative Commons: Attribution 3.0 Unported license</a>.
+<div xmlns:dc="http://purl.org/dc/terms/" xmlns:cc"http://creativecommons.org/#ns" about="https://github.com/dominickchen/fundamentalinformatics/"><span property="dct:title">
+This work, <span property="dct:title">"Graphics for fundamental Informatics"</span> by <a href="https://github.com/dominickchen/dcv" target="_blank">Dominique Chen</a> and hosted on <a href="https://github.com/dominickchen/fundamentalinformatics" target="_blank">GitHub repository</a> is licensed under a <a href="http://creativecommons.org/licenses/by/3.0/" target="_blank" rel="license">Creative Commons: Attribution 3.0 Unported license</a>.
 `
 <br />
 **Attribution URL** <br />
