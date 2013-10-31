@@ -1,5 +1,4 @@
 # Fundamental Informatics
---- 
 
 ### Background 
 Graphic elements for Fundamental Informatics and Data Bionomy theories which inherit the discussions of the Second Order Cybernetics.
@@ -24,15 +23,16 @@ In case you Fork and send PullRequest, please add your objects to the **proposit
  
 ### log message
 	
-	First Commit message
-	This is a dirty release: objects need to be organized and some texts need to be rewritten in text format.
-
+**First Commit message**<br />
+This is a dirty release: objects need to be organized and some texts need to be rewritten in text format.
 
 --- 
 
-# License
+### License
 
 <img src="http://mirrors.creativecommons.org/presskit/buttons/80x15/png/by.png" style="height:25px;">
+
+This work, <a href="https://github.com/dominickchen/fundamentalinformatics" target="_blank">"fundamental_informatics"</a>by <a href="https://github.com/dominickchen/dcv" target="_blank">Dominique Chen</a> is licensed under a <a href="http://creativecommons.org/licenses/by/3.0/" rel="license">Creative Commons: Attribution 3.0 Unported license</a>.
 
 **Attributoin HTML Snippet** (copy&paste)<br />
 `
