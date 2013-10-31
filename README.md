@@ -1,5 +1,5 @@
 # Fundamental Informatics
-======================
+--- 
 
 ### Background 
 Graphic elements for Fundamental Informatics and Data Bionomy theories which inherit the discussions of the Second Order Cybernetics.
@@ -13,14 +13,14 @@ These graphic elements have been drawn for a paper to appear in a book about Fun
 ### File structure
 You can download and start tweaking Illustrator (CS6), EPS or SVG files.
 
-* ** Dump ** layer
+* **Dump** layer
 	* objects created in the process of writing but not adopted at last.
-* ** Production ** layer
+* **Production** layer
 	* objects adopted in the paper. 
-* ** Experimental ** layer
+* **Experimental** layer
 	* objects created for enhancement of production objects but need further refinement.
 	
-In case you Fork and send PullRequest, please add your objects to the ** proposition ** layer.
+In case you Fork and send PullRequest, please add your objects to the **proposition** layer.
  
 ### log message
 	
@@ -30,12 +30,14 @@ In case you Fork and send PullRequest, please add your objects to the ** proposi
 
 --- 
 
+# License
+
 <img src="http://mirrors.creativecommons.org/presskit/buttons/80x15/png/by.png" style="height:25px;">
 
-** Attribution URL ** <br />
+**Attributoin HTML Snippet** (copy&paste)<br />
+`
+This work, <a href="https://github.com/dominickchen/fundamentalinformatics" target="_blank">"fundamental_informatics"</a>by <a href="https://github.com/dominickchen/dcv" target="_blank">Dominique Chen</a> is licensed under a <a href="http://creativecommons.org/licenses/by/3.0/" rel="license">Creative Commons: Attribution 3.0 Unported license</a>.
+`
+<br />
+**Attribution URL** <br />
 https://github.com/dominickchen/fundamentalinformatics
-
-** Attributoin HTML Snippet ** <br />
-`
-This work, <a href="https://github.com/dominickchen/fundamentalinformatics" target="_blank">"fundamental_informatics"</a> by <a href="https://github.com/dominickchen/dcv" target="_blank">Dominique Chen</a> is licensed under a <a href="http://creativecommons.org/licenses/by/3.0/" rel="license">Creative Commons: Attribution 3.0 Unported license</a>.
-`
